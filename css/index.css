@@ -51,7 +51,7 @@ body {
     padding: 0 20px;
 }
 .menu-arrow {
-    background: url(/images/menu-arrow.png) no-repeat top right;
+    background: url(../images/menu-arrow.png) no-repeat top right;
     background-size: 14px;
     background-position: right 5px top 25%;
 }
@@ -66,7 +66,7 @@ body {
 .language-icon::before {
     position: absolute;
     content: "";
-    background: url(/images/language-icon.png) no-repeat center;
+    background: url(../images/language-icon.png) no-repeat center;
     width: 22px;
     height: 22px;
     left: 25px;
@@ -194,7 +194,7 @@ content: "";
 position: absolute;
 width: 24px;
 height: 24px;
-background: url(/images/icons-forward.png) no-repeat;
+background: url(../images/icons-forward.png) no-repeat;
 
 }
 .calendar-month-control-rev::before {
@@ -562,7 +562,7 @@ input:focus {
 .input-field-dates .search-field:last-child::after {
     content: "";
     position: absolute;
-    background: url(/images/calendar.png) no-repeat;
+    background: url(../images/calendar.png) no-repeat;
     top: 50%;
     transform: translateY(-50%);
     right: 10%;
@@ -589,7 +589,7 @@ input:focus {
 .input-field-dates .search-field:last-child::after {
     content: "";
     position: absolute;
-    background: url(/images/calendar.png) no-repeat;
+    background: url(../images/calendar.png) no-repeat;
     top: 50%;
     transform: translateY(-50%);
     right: 10%;
@@ -653,7 +653,7 @@ input:focus {
     content: "";
     position: absolute;
     left: 25px;
-    background: url(/images/location-icon.png) center;
+    background: url(../images/location-icon.png) center;
     width: 16px;
     height: 16px;
     
@@ -702,7 +702,7 @@ input:focus {
 .complex-route::before {
     content: "";
     position: absolute;
-    background: url(/images/route_icon.png) no-repeat center;
+    background: url(../images/route_icon.png) no-repeat center;
     width: 24px;
     height: 24px;
     left: 0;
@@ -748,7 +748,7 @@ input:focus {
     position: absolute;
     bottom: 0;
     right: 30px;
-    background: url(/images/telegram-image.png) no-repeat right;
+    background: url(../images/telegram-image.png) no-repeat right;
     width: 120px;
     height: 100px;
 
@@ -758,7 +758,7 @@ input:focus {
     position: absolute;
     bottom: 10px;
     right: 0;
-    background: url(/images/bus-icon.png) no-repeat right;
+    background: url(../images/bus-icon.png) no-repeat right;
     width: 170px;
     height: 100px;
 
@@ -781,7 +781,7 @@ input:focus {
     left: 0;
     width: 16px;
     height: 16px;
-    background: url(/images/check-icon.png);
+    background: url(../images/check-icon.png);
     top: 50%;
     transform: translateY(-50%);
 }
@@ -912,7 +912,7 @@ a {
 .top-10-avia-list-item::after {
     content: "";
     position: absolute;
-    background: url(/images/star-icon.png) no-repeat;
+    background: url(../images/star-icon.png) no-repeat;
     top:50%;
     transform: translateY(-50%);
     right: 30px;
@@ -941,7 +941,7 @@ a {
     height: 120px;
     top: 20px;
     right: 10px;
-    background: url(/images/computer-icon.png);
+    background: url(../images/computer-icon.png);
 }
 .best-offers h4 {
     font-weight: normal;
@@ -977,7 +977,7 @@ a {
     top: -14px;
     width: 30px;
     height: 30px;
-    background: url('/images/email-sign\ \(1\).png') no-repeat center;
+    background: url('../images/email-sign\ \(1\).png') no-repeat center;
 }
 .best-offers-email::placeholder {
     color: #FF4D4D;
@@ -1026,7 +1026,7 @@ a {
 .all-countries-item::after {
     content: "";
     position: absolute;
-    background: url(/images/Shape.svg) no-repeat center;
+    background: url(../images/Shape.svg) no-repeat center;
     top: 50%;
     transform: translateY(-50%);
     width: 25px;
@@ -1230,7 +1230,7 @@ ul {
         width: 20px;
         height: 20px;
         color: #ccc;
-        background: url(/images/arrow-grey.png) no-repeat;
+        background: url(../images/arrow-grey.png) no-repeat;
     }
     .social-media {
         display: flex;
